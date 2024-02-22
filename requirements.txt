@@ -115,7 +115,6 @@ websockets==12.0
 win-unicode-console==0.5
 wincertstore==0.2
 xgboost==1.7.1
-xlwings==0.24.9
 xyzservices==2022.9.0
 zict==2.0.0
 zope.event==4.6
