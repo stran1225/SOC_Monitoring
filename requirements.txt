@@ -94,7 +94,6 @@ scooby==0.7.0
 shapely==2.0.0
 slicerator==1.1.0
 sqlparse==0.4.3
-TBB==0.2
 tensorboard==2.11.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
