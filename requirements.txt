@@ -135,7 +135,7 @@ ipython-genutils==0.2.0
 ipywidgets==7.6.3
 jedi==0.18.0
 Jinja2==2.11.3
-jupyter-client==6.1.11
+jupyter-client==7.4.4
 jupyterlab-pygments==0.1.2
 jupyterlab-widgets==1.0.0
 MarkupSafe==1.1.1
