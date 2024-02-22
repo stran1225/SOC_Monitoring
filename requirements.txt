@@ -14,7 +14,6 @@ brotlipy==0.7.0
 catboost==1.1.1
 click-plugins==1.1.1
 cligj==0.7.2
-clyent==1.2.2
 comtypes==1.1.10
 conda-verify==3.4.2
 constantly==15.1.0
