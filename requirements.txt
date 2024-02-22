@@ -161,7 +161,7 @@ pyzmq==24
 six==1.15.0
 sniffio==1.2.0
 testpath==0.4.4
-voila==0.2.6
+voila==0.5.1
 wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.5.1
