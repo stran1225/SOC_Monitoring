@@ -58,7 +58,6 @@ constantly==15.1.0
 cookiecutter==1.7.3
 cryptography==3.4.8
 cssselect==1.1.0
-curl==7.82.0
 cycler==0.11.0
 cython==0.29.28
 cytoolz==0.11.0
