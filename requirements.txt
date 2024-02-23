@@ -143,7 +143,6 @@ jupyter==1.0.0
 jupyter-core==5.7.1
 jupyter-events==0.9.0
 jupyter-lsp==2.2.0
-jupyter-server==2.12.5
 jupyter-server-terminals==0.5.2
 jupyter_client==8.6.0
 jupyter_console==6.4.0
