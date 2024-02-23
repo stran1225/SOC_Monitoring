@@ -97,7 +97,6 @@ gevent==22.10.2
 glob2==0.7
 greenlet==2.0.1
 grpcio==1.42.0
-gstreamer==1.18.5
 h5py==3.6.0
 hdf5==1.10.6
 heapdict==1.0.1
