@@ -132,7 +132,7 @@ entrypoints==0.3
 idna==3.1
 ipykernel==5.4.3
 ipython-genutils==0.2.0
-ipywidgets==7.7.5
+ipywidgets==7.7.5s
 jedi==0.18.0
 Jinja2==3.0.3
 jupyter-client==7.4.4
@@ -164,7 +164,7 @@ testpath==0.4.4
 voila==0.5.1
 wcwidth==0.2.5
 webencodings==0.5.1
-widgetsnbextension==3.5.1
+widgetsnbextension==3.6.4
 statsmodels==0.14.1
 openpyxl==3.1.2
 
