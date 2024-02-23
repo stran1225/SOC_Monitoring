@@ -54,17 +54,6 @@ colorama==0.4.4
 colorcet==2.0.6
 comm==0.1.2
 comtypes==1.1.10
-conda==23.9.0
-conda-build==3.28.4
-conda-content-trust==0.1.1
-conda-env==2.6.0
-conda-index==0.4.0
-conda-pack==0.6.0
-conda-package-handling==2.2.0
-conda-package-streaming==0.9.0
-conda-repo-cli==1.0.4
-conda-token==0.3.0
-conda-verify==3.4.2
 console_shortcut==0.1.1
 constantly==15.1.0
 cookiecutter==1.7.3
