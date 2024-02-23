@@ -103,7 +103,6 @@ holoviews==1.14.8
 hvplot==0.7.3
 hyperlink==21.0.0
 icc_rt==2019.0.0
-icu==58.2
 idna==3.3
 image==1.5.33
 imagecodecs==2021.8.26
