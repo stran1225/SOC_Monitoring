@@ -54,7 +54,6 @@ colorama==0.4.4
 colorcet==2.0.6
 comm==0.1.2
 comtypes==1.1.10
-console_shortcut==0.1.1
 constantly==15.1.0
 cookiecutter==1.7.3
 cryptography==3.4.8
