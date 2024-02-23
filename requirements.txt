@@ -132,7 +132,7 @@ entrypoints==0.3
 idna==3.1
 ipykernel==5.4.3
 ipython-genutils==0.2.0
-ipywidgets==7.7.5s
+ipywidgets==7.7.5
 jedi==0.18.0
 Jinja2==3.0.3
 jupyter-client==7.4.4
